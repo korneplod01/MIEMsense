@@ -1,4 +1,4 @@
-MIEMsense - exterhal WH + SDK-набор для CS 1.6
+# MIEMsense - exterhal WH + SDK-набор для CS 1.6
 
 ### ВАЖНО: во избежание блокировки VAC запускайте чит **ТОЛЬКО** с параметром -insecure
 
