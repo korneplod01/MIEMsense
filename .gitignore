@@ -1,0 +1,12 @@
+/build/
+/.cmake/
+/.vs/
+/out/
+
+*.o
+*.obj
+*.exe
+*.dll
+*.a
+*.lib
+
